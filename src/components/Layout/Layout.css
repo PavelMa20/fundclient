@@ -1,0 +1,39 @@
+header{
+    width: 100%;
+    height: 35px;
+    border: 1px solid black;
+}
+aside{
+    width: fit-content;
+    height: 100%;
+    
+
+}
+main{
+    width: 100%;
+    height: 1000px;
+    border: 1px solid black;
+}
+.asmain{
+    display: flex; 
+     flex-direction: row;
+}
+.tableup{
+    margin: 0px;
+}
+.tableedit{
+    margin: 20px;
+}
+h3{
+    margin-left: 10px;
+}
+.mainInput{
+    white-space: nowrap;
+    margin-left: 20px;
+}
+.uppload{
+    margin-left: 20px;
+}
+.docContainer{
+    overflow-x: scroll;
+}

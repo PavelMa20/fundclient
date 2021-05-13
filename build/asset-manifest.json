@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/my-app/fundclient/static/css/main.83f056a4.chunk.css",
+    "main.js": "/my-app/fundclient/static/js/main.dc1c8012.chunk.js",
+    "main.js.map": "/my-app/fundclient/static/js/main.dc1c8012.chunk.js.map",
+    "runtime-main.js": "/my-app/fundclient/static/js/runtime-main.c2ee6934.js",
+    "runtime-main.js.map": "/my-app/fundclient/static/js/runtime-main.c2ee6934.js.map",
+    "static/css/2.175a6ccd.chunk.css": "/my-app/fundclient/static/css/2.175a6ccd.chunk.css",
+    "static/js/2.c48f05ce.chunk.js": "/my-app/fundclient/static/js/2.c48f05ce.chunk.js",
+    "static/js/2.c48f05ce.chunk.js.map": "/my-app/fundclient/static/js/2.c48f05ce.chunk.js.map",
+    "static/js/3.a6303e43.chunk.js": "/my-app/fundclient/static/js/3.a6303e43.chunk.js",
+    "static/js/3.a6303e43.chunk.js.map": "/my-app/fundclient/static/js/3.a6303e43.chunk.js.map",
+    "index.html": "/my-app/fundclient/index.html",
+    "static/css/2.175a6ccd.chunk.css.map": "/my-app/fundclient/static/css/2.175a6ccd.chunk.css.map",
+    "static/css/main.83f056a4.chunk.css.map": "/my-app/fundclient/static/css/main.83f056a4.chunk.css.map",
+    "static/js/2.c48f05ce.chunk.js.LICENSE.txt": "/my-app/fundclient/static/js/2.c48f05ce.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c2ee6934.js",
+    "static/css/2.175a6ccd.chunk.css",
+    "static/js/2.c48f05ce.chunk.js",
+    "static/css/main.83f056a4.chunk.css",
+    "static/js/main.dc1c8012.chunk.js"
+  ]
+}
